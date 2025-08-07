@@ -5,8 +5,7 @@
 
 Sebuah tool CLI (Command-Line Interface) sederhana namun powerful yang ditulis dengan Python untuk mengekstrak, menganalisis, dan mengelola daftar domain dari sekumpulan URL.
 
-![Demo Program](https://i.imgur.com/uR1k3aY.gif)
-*(Saran: Ganti link gambar di atas dengan link GIF demo program buatanmu sendiri)*
+![Demo Program](https://file.ahs.my.id/-bRbE2GKzuk)
 
 ---
 
@@ -28,7 +27,7 @@ Untuk menjalankan tool ini, pastikan kamu sudah menginstal **Python 3.7** atau v
 
 1.  **Clone repository ini ke komputermu:**
     ```bash
-    git clone [https://github.com/linkdewanews/domain-extractor.git](https://github.com/linkdewanews/domain-extractor.git)
+    git clone https://github.com/linkdewanews/domain-extractor.git
     ```
 
 2.  **Masuk ke direktori proyek:**
