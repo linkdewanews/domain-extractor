@@ -28,12 +28,12 @@ Untuk menjalankan tool ini, pastikan kamu sudah menginstal **Python 3.7** atau v
 
 1.  **Clone repository ini ke komputermu:**
     ```bash
-    git clone [https://github.com/NAMA_USER_GITHUB_KAMU/NAMA_REPO_KAMU.git](https://github.com/NAMA_USER_GITHUB_KAMU/NAMA_REPO_KAMU.git)
+    git clone [https://github.com/linkdewanews/domain-extractor.git](https://github.com/linkdewanews/domain-extractor.git)
     ```
 
 2.  **Masuk ke direktori proyek:**
     ```bash
-    cd NAMA_REPO_KAMU
+    cd domain-extractor
     ```
 
 3.  **Instal semua modul yang dibutuhkan:**
